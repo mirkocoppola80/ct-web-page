@@ -1,0 +1,16 @@
+#wrap {width: 100%}
+
+#wrap-header {
+    max-width: 100%;
+    height: 500px;
+    background: url("../assets/circle_header_background.png") no-repeat center;
+
+
+
+}
+
+#bottom-header {
+    max-width: 100%;
+    height: 500px;
+    background: url("../assets/header_background.png") no-repeat center;
+}
